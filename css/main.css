@@ -35,4 +35,5 @@ html {
   color: #fff;
   bottom: 5px;
   left: 150px;
+  max-width: 32em;
 }
